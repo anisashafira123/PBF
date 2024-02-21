@@ -1,6 +1,7 @@
 Langkah1 :
     Membuat folder baru bernama praktikum2 dengan menjalankan terminal 
-    ![CMD](/img/langkah1.png)
+    
+![CMD](/img/langkah1.png)
 
 Langkah 2 :
     Membuat project baru
@@ -58,3 +59,28 @@ Langkah 4 : Run
     ![CMD](/img/hasil%20langkah4.1.png)
 Soal 3
     ![CMD](/img/hasil%20soal%203.png)
+
+    Alasan kenapa teks tersebut otomatis berubah tanpa perlu menjalankan perintah npm run dev dan tidak juga diperlukan me-reload halaman browser adalah penggunaan npm run dev digunakan dalam pengembangan perangkat lunak untuk menjalankan serve pengembangan lokal secara otomatis, ini dikarenakan menggunakan alat seperti reactJS secara otomatis.
+
+Tugas
+
+Remix
+
+![CMD](/img/remix.png)
+
+Hasil
+
+![CMD](/img/hasil%20remix.png)
+
+Gatsby
+
+![CMD](/img/gatsby1.png)
+![CMD](/img/gatsby2.png)
+
+Hasil
+
+![CMD](/img/hasil%20gatsby.png)
+
+Perbedaan 
+
+
