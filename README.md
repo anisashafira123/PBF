@@ -33,14 +33,23 @@ Langkah 3 :
     5. .eslintrc.json
         Digunakan untuk mengonfigurasi ESLint, alat linting JavaScript yang digunakan untuk menerapkan aturan gaya kode, mendeteksi potensi bug, dan menerapkan praktik terbaik dalam pengembangan JavaScript.
     6. .gitignore
+        File ini berisi daftar file dan folder yang akan diabaikan oleh Git ketika Anda menjalankan perintah-perintah seperti git add atau git commit. Ini sangat berguna untuk mengabaikan file yang dihasilkan secara otomatis atau file-file sementara yang tidak perlu disertakan dalam repositori Git, seperti file konfigurasi lokal, file output, atau folder node_modules.
     7. next.config.mjs
+        File ini adalah konfigurasi kustom untuk proyek Next.js. Anda dapat menggunakan file ini untuk mengkonfigurasi berbagai aspek aplikasi Next.js, seperti pengaturan server, pengaturan webpack, dan banyak lagi.
     8. next-env.d.ts
+        Ini adalah file yang digunakan oleh TypeScript untuk mendeklarasikan tipe-tipe yang spesifik untuk Next.js. Ini berisi deklarasi-deklarasi yang dibutuhkan agar TypeScript dapat bekerja dengan benar dengan kode Next.js.
     9. package.json
+        file yang mengelola dependensi dan skrip dalam proyek Node.js.
     10. package-lock.json
+        berisi daftar dependensi lengkap, bersama dengan versi yang tepat, yang terinstal dalam proyek. file package.json dan file package-lock.json penting untuk memastikan konsistensi instalasi paket dan menjaga keamanan dan kestabilan proyek.
     11. postcss.config.js
+        adalah konfigurasi untuk PostCSS, alat yang digunakan untuk memproses dan mengonversi kode CSS dengan menggunakan plugin-plugin.
     12. README.md
+         adalah file Markdown yang berisi dokumentasi untuk proyek. untuk memberikan informasi tentang cara menginstal, menggunakan, dan berkontribusi pada proyek, serta informasi-informasi lain yang mungkin berguna bagi pengguna atau kontributor proyek.
     13. tailwind.config.ts
+        adalah konfigurasi untuk Tailwind CSS, sebuah kerangka kerja CSS yang sangat fleksibel dan dapat disesuaikan. file ini untuk mengkonfigurasi berbagai aspek dari Tailwind CSS, seperti tema, varian, dan banyak lagi.
     14. tsconfig.json
+        adalah konfigurasi untuk TypeScript, yang digunakan untuk mengatur cara TypeScript mengompilasi kode Anda. file ini untuk mengatur berbagai opsi kompilasi TypeScript, seperti pengaturan modul, target platform, dan banyak lagi.
 
 Langkah 4 : Run
     Run projek dengan kode dibawah
