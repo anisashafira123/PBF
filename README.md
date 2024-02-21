@@ -79,7 +79,7 @@ Gatsby
 
 Hasil
 
-![CMD](/img/hasil%20gatsby.png)
+![cmd](/img/hasil%20gatsby.png)
 
 Perbedaan 
 
