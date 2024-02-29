@@ -6,7 +6,7 @@ export function getImageUrl(imageId:string, size = 's') {
       '.jpg'
     );
   }
-  export function getImageUrlV2(person: { imageId: string; }, size: 's') {
+  export function getImageUrlV2(person: { imageId: string; }, size: string) {
     return (
       'https://i.imgur.com/' +
       person.imageId +
