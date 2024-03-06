@@ -1,13 +1,13 @@
 Langkah1 :
     Membuat folder baru bernama praktikum2 dengan menjalankan terminal 
     
-![CMD](/img/langkah1.png)
+![CMD](/praktikum2/2/img/langkah1.png)
 
 Langkah 2 :
     Membuat project baru
-    ![CMD](/img/langkah2.1.png)
+    ![CMD](/praktikum2/2/img/langkah2.1.png)
     Hasil
-    ![CMD](/img/hasil%20langkah2.1.png)
+    ![CMD](/praktikum2/2/img/hasil%20langkah2.1.png)
 
     -Soal 1
     A. Typescript adalah bahasa pemrograman berbasis JavaScript yang menambahkan fitur strong-typing & konsep pemrograman OOP klasik ( class, interface). Di dalam dokumentasinya, TypeScript disebut sebagai super-set dari JavaScript, artinya semua kode JavaScript adalah kode TypeScript juga. Bahasa pemrograman ini menawarkan class, module, dan interface yang membuat developer bisa mengembangkan aplikasi kompleks dengan lebih mudah. Hal inilah yang membedakannya dengan javascript.
@@ -18,9 +18,9 @@ Langkah 2 :
 
 Langkah 3 :
     Masuk ke dalam VS Code dengan kode berikut
-    ![CMD](/img/Langkah3.1.png)
+    ![CMD](/praktikum2/2/img/Langkah3.1.png)
     Hasil dari struktur file dan folder react yang telah dibuat
-    ![CMD](/img/langkah3.2.png)
+    ![CMD](/praktikum2/2/img/langkah3.2.png)
 
     Soal 2
     1. .git 
@@ -54,11 +54,11 @@ Langkah 3 :
 
 Langkah 4 : Run
     Run projek dengan kode dibawah
-    ![CMD](/img/langkah4.1.png)
+    ![CMD](/praktikum2/2/img/langkah4.1.png)
     Hasil
-    ![CMD](/img/hasil%20langkah4.1.png)
+    ![CMD](/praktikum2/2/img/hasil%20langkah4.1.png)
 Soal 3
-    ![CMD](/img/hasil%20soal%203.png)
+    ![CMD](/praktikum2/2/img/hasil%20soal%203.png)
 
     Alasan kenapa teks tersebut otomatis berubah tanpa perlu menjalankan perintah npm run dev dan tidak juga diperlukan me-reload halaman browser adalah penggunaan npm run dev digunakan dalam pengembangan perangkat lunak untuk menjalankan serve pengembangan lokal secara otomatis, ini dikarenakan menggunakan alat seperti reactJS secara otomatis.
 
@@ -66,20 +66,20 @@ Tugas
 
 Remix
 
-![CMD](/img/remix.png)
+![CMD](/praktikum2/2/img/remix.png)
 
 Hasil
 
-![CMD](/img/hasil%20remix.png)
+![CMD](/praktikum2/2/img/hasil%20remix.png)
 
 Gatsby
 
-![CMD](/img/gatsby1.png)
-![CMD](/img/gatsby2.png)
+![CMD](/praktikum2/2/img/gatsby1.png)
+![CMD](/praktikum2/2/img/gatsby2.png)
 
 Hasil
 
-![cmd](/img/hasil%20gatsby.png)
+![cmd](/praktikum2/2/img/hasil%20gatsby.png)
 
 Perbedaan 
 Dari Next.js, Remix, dan Gatsby, dapat dilihat bahwa Next.js lebih menonjol sebagai kerangka kerja yang paling matang dan mapan. Dengan basis pengguna yang lebih besar, dokumentasi yang luas, dan dukungan komunitas yang kuat, Next.js adalah pilihan yang dapat diandalkan. Ini juga mendukung situs statis dan dinamis, menjadikannya solusi yang cocok untuk berbagai kasus penggunaan.Di sisi lain, jika kesederhanaan, kecepatan, dan pengaturan minimal adalah prioritas Anda, Remix mungkin merupakan pilihan yang lebih sesuai. Meskipun masih dalam tahap pengembangan dan belum memiliki banyak contoh serta kasus penggunaan, aplikasi ini mendapatkan tanggapan positif dari para pengembang dan menunjukkan harapan di masa depan.Mengenai Gatsby, ia mengalami penurunan popularitas, namun tetap menjadi pilihan yang lebih cepat dan ringan karena kemampuan pembuatan situs statisnya.
