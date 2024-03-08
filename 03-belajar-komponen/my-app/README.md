@@ -1,5 +1,5 @@
 Kode dalam page.tsx dibawah untuk menghindari eror
-![CMD](/praktikum2/03-belajar-komponen/my-app/img/pagetsx.png)
+![CMD](/03-belajar-komponen/my-app/img/pagetsx.png)
 Kode dalam profile
 ![CMD](/praktikum2/03-belajar-komponen/my-app/img/profiletsx.png)
 Hasil dari kode diatas 
