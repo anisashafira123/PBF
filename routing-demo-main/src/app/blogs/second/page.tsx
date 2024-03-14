@@ -1,5 +1,5 @@
-export default function FirstBlog() {
+export default function SecondBlog() {
     return (
-          <h1>First Blog</h1>
+          <h1>Second Blog</h1>
     );
   }
