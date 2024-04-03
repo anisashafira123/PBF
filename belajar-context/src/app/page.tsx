@@ -1,4 +1,4 @@
-import Image from "next/image";
+"use client"
 import MainPage from "@/components/templates/main_page";
 
 export default function Home() {

@@ -32,6 +32,7 @@ Untuk hasilnya dapat dilihat pada gambar dibawah ini
     ![CMD](/praktikum2/belajar-context/image/1langkah5.3_1.png)
 # Soal2
 
+
 6. Menggunakan dan menyediakan context dari komponen yang sama
 Berikut adalah bagaimana Anda dapat melakukannya dengan mengubah sedikit kode pada komponen Section:
 ![CMD](/praktikum2/belajar-context/image/1langkah6_1.png)
