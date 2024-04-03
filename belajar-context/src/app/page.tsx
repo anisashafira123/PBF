@@ -1,8 +1,15 @@
 "use client"
 import MainPage from "@/components/templates/main_page";
+import ProfilePage from "@/components/templates/profile_page";
 
 export default function Home() {
-  return <MainPage/>;
+  return (
+    <>
+    <MainPage/>
+    <hr/>
+    <ProfilePage/>
+    </>
+  );
 }
 //     <main className="flex min-h-screen flex-col items-center justify-between p-24">
 //       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
