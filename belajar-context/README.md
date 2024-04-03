@@ -17,7 +17,7 @@ Ubahlah kode di src\app\page.tsx seperti berikut. Lalu run dan lihat hasilnya di
 ![CMD](/praktikum2/belajar-context/image/1langkah4_1.png)
 Untuk hasilnya dapat dilihat pada gambar dibawah ini
 ![CMD](/praktikum2/belajar-context/image/1langkah_hasil.png)
-# Soal
+# Soal1
 
 5. Buat Context
     5.1 Buatlah file baru di src\utilities\context\mycontext.tsx yang berisi kode sebagai berikut:
@@ -30,8 +30,14 @@ Untuk hasilnya dapat dilihat pada gambar dibawah ini
     5.3 Sediakan Context
     Komponen Section saat ini merenders anaknya, bungkus mereka semua dengan sebuah context provider untuk menyediakan LevelContext kepada mereka seperti kode berikut:
     ![CMD](/praktikum2/belajar-context/image/1langkah5.3_1.png)
-# Soal
+# Soal2
 
-
+6. Menggunakan dan menyediakan context dari komponen yang sama
+Berikut adalah bagaimana Anda dapat melakukannya dengan mengubah sedikit kode pada komponen Section:
+![CMD](/praktikum2/belajar-context/image/1langkah6_1.png)
+Dengan perubahan ini, Anda tidak perlu mengoper prop level baik ke < Section > atau ke < Heading >:
+![CMD](/praktikum2/belajar-context/image/1langkah6_2.png)
+![CMD](/praktikum2/belajar-context/image/1langkah6_3.png)
+# Soal3
 
 
