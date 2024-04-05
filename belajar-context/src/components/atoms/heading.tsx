@@ -19,6 +19,6 @@ export default function Heading({ children }: { children:any }) {
         case 6:
             return <h6>{children}</h6>;
         default:
-            throw Error('Unknown level: ' + level);
+            throw Error(' Unknown level: ' + level);
     }
 }
