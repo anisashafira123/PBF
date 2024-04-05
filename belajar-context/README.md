@@ -72,3 +72,42 @@ Ketika Anda run dengan npm run dev maka di browser akan tampil seperti berikut.
 # Soal 4
 Tambahkan teks Nama dan NIM pada bagian komponen Post agar menunjukkan itu hasil kerja Anda!
 ![CMD](/praktikum2/belajar-context/image/Soal4Hasil.png)
+
+# Praktikum 3: Membuat Context Tema Light/Dark
+1. Buatlah file dan folder baru di src\utilities\themes\mythemes.tsx yang berisi kode berikut.
+![CMD](/praktikum2/belajar-context/image/3langkah1_1.png)
+Kemudian buatlah contextnya di file src\utilities\contexts\mycontext.tsx
+![CMD](/praktikum2/belajar-context/image/3langkah1_2.png)
+2. Buat komponen atom NavBar
+Buatlah file baru di src\components\atoms\navbar.tsx
+![CMD](/praktikum2/belajar-context/image/3langkah2_1.png)
+3. Buat Provider
+Buatlah provider di src\components\atoms\myapp.tsx
+![CMD](/praktikum2/belajar-context/image/3langkah2_2.png)
+4. Buat masing-masing page
+Pindahkan komponen ProfilePage ke file src\components\templates\profile_page.tsx
+![CMD](/praktikum2/belajar-context/image/3langkah4_1.png)
+Sehingga struktur folder di templates menjadi seperti berikut. Anda dapat berkreasi dengan konten pada About dan Contacts.
+![CMD](/praktikum2/belajar-context/image/3langkah4_2.png)
+5. Buat routing
+Buatlah folder dan file baru di dalam app agar routing page masing-masing dapat diakses seperti berikut.
+![CMD](/praktikum2/belajar-context/image/3langkah5_1.png)
+Gantilah isi kode pada src\app\page.tsx menjadi seperti berikut.
+![CMD](/praktikum2/belajar-context/image/3langkah5_2.png)
+Termasuk di masing-masing page src\app\profile\page.tsx, untuk page About dan Contacs silakan Anda sesuaikan.
+![CMD](/praktikum2/belajar-context/image/3langkah5_3.png)
+![CMD](/praktikum2/belajar-context/image/3langkah5_4.png)
+![CMD](/praktikum2/belajar-context/image/3langkah5_5.png)
+Untuk Hasil dari halaman profil
+![CMD](/praktikum2/belajar-context/image/3langkah5_HasilProfil.png)
+Untuk Hasil dari halaman about
+![CMD](/praktikum2/belajar-context/image/3langkah5_HasilAbout.png)
+Untuk Hasil dari halaman Contacts
+![CMD](/praktikum2/belajar-context/image/3langkah5_HasilContacts.png)
+Untuk Hasil dari dark theme
+![CMD](/praktikum2/belajar-context/image/3langkah5_HasilTheme.png)
+# Soal 5
+1. Apakah toggle button tema sudah berfungsi ? jika belum, silakan perbaiki!
+    Sudah
+2. Mengapa ketika refresh atau berpindah halaman tema tidak permanen ? Buatlah menjadi permanen walaupun page sudah direfresh dan pindah halaman!
+
